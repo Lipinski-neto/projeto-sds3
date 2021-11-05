@@ -1,8 +1,8 @@
-import RoutesConfig from "RoutesConfig";
+import Routes from "RoutesConfig";
 
 function App() {
   return (
-    <RoutesConfig />
+    <Routes />
   );
 }
 
